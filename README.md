@@ -1,1 +1,1 @@
-# platzi-notes
+# Platzi Nottes
